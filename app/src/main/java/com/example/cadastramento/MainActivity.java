@@ -21,9 +21,9 @@ public class MainActivity extends AppCompatActivity {
         bd = new BDSQLiteHelper(this);
         lvlistalivros = (ListView) findViewById(R.id.list_view);
         Button btn_inserir = (Button) findViewById(R.id.btn_inserir);
-        btn_inserir.setOnClickListener(new View.OnClickListener()
-            @Override
+        //btn_inserir.setOnClickListener(new View.OnClickListener()
 
-        );
+
+        //);
     }
 }
